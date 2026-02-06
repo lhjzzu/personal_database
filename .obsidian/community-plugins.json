@@ -1,4 +1,10 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-icon-folder",
+  "novel-word-count",
+  "tag-wrangler",
+  "obsidian-pandoc",
+  "obsidian-list-callouts",
+  "obsidian-outliner"
 ]

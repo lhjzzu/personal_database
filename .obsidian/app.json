@@ -1,1 +1,7 @@
-{}
+{
+  "attachmentFolderPath": "Attachment",
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "strictLineBreaks": true,
+  "promptDelete": false
+}

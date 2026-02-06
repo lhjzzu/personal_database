@@ -1,0 +1,208 @@
+{
+  "settings": {
+    "useAdvancedFormatting": false,
+    "countType": "note",
+    "countConfig": {
+      "customSuffix": "n",
+      "$sessionCountType": "word"
+    },
+    "countType2": "word",
+    "countConfig2": {
+      "$sessionCountType": "word",
+      "customSuffix": "w"
+    },
+    "countType3": "none",
+    "countConfig3": {
+      "$sessionCountType": "word"
+    },
+    "pipeSeparator": "|",
+    "abbreviateDescriptions": false,
+    "alignment": "inline",
+    "showSameCountsOnFolders": true,
+    "folderCountType": "word",
+    "folderCountConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "folderCountType2": "none",
+    "folderCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "folderCountType3": "none",
+    "folderCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "folderPipeSeparator": "|",
+    "folderAbbreviateDescriptions": false,
+    "folderAlignment": "inline",
+    "showSameCountsOnRoot": true,
+    "rootCountType": "word",
+    "rootCountConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "rootCountType2": "none",
+    "rootCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "rootCountType3": "none",
+    "rootCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "rootPipeSeparator": "|",
+    "rootAbbreviateDescriptions": false,
+    "showAdvanced": false,
+    "labelOpacity": 0.75,
+    "wordsPerMinute": 265,
+    "charsPerMinute": 500,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "charsPerPageIncludesWhitespace": false,
+    "characterCountType": "AllCharacters",
+    "pageCountType": "ByWords",
+    "includeDirectories": "",
+    "excludeComments": false,
+    "excludeCodeBlocks": false,
+    "excludeNonVisibleLinkPortions": false,
+    "excludeFootnotes": false,
+    "momentDateFormat": "",
+    "debugMode": false
+  },
+  "cachedCounts": {
+    "读书/格物心法/第1章：能力圈：只在你的地盘里称王.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 282,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.94,
+      "characterCount": 573,
+      "nonWhitespaceCharacterCount": 525,
+      "newlineCount": 17,
+      "readingTimeInMinutes": 0.6172075471698113,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1768836214052,
+      "modifiedDate": 1769141845900,
+      "sizeInBytes": 1117,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.94,
+        "wordCount": 282,
+        "characterCount": 573,
+        "nonWhitespaceCharacterCount": 525,
+        "newlineCount": 17
+      }
+    },
+    "Excalidraw/第1章：能力圈：只在你的地盘里称王 2026-01-19 23.00.36.excalidraw.md": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1768834836185,
+      "modifiedDate": 1768835827438,
+      "sizeInBytes": 8818,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "00 Templates/template_log.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 14,
+      "nonWhitespaceCharacterCount": 8,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770044979145,
+      "modifiedDate": 1770045143241,
+      "sizeInBytes": 14,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.006666666666666667,
+        "wordCount": 2,
+        "characterCount": 14,
+        "nonWhitespaceCharacterCount": 8,
+        "newlineCount": 5
+      }
+    },
+    "00 Attachment/Pasted image 20260123130944.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1769144984088,
+      "modifiedDate": 1769144984088,
+      "sizeInBytes": 1299283,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Obsidian最佳实践/最佳实践.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 681,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.27,
+      "characterCount": 1286,
+      "nonWhitespaceCharacterCount": 900,
+      "newlineCount": 108,
+      "readingTimeInMinutes": 1.376188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770379194645,
+      "modifiedDate": 1770384489681,
+      "sizeInBytes": 2680,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    }
+  }
+}
