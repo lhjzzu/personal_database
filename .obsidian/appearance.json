@@ -1,6 +1,6 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Minimal",
+  "cssTheme": "Border",
   "baseFontSize": 14,
   "baseFontSizeAction": true
 }
